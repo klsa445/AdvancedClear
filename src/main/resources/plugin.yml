@@ -1,0 +1,3 @@
+name: AdvancedClear
+version: '${project.version}'
+main: net.liziyu352.advancedclear.AdvancedClear
